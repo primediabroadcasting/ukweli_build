@@ -5,8 +5,8 @@ On the 21st and 22nd of November, a team from [EWN](http://ewn.co.za) took part 
 Under the hood we are doing three things:
 
 1. Doing a document similarity match against a corpus of known hoax messages
-1. Using a machine learning model, trained on a corpus of fake news articles, to determine if your document has any similarity to fake news
 1. Using a machine learning model, trained on a corpus of spam SMS messages, to determine if your document has any similarity to SMS spam
+1. Using a machine learning model, trained on a corpus of fake news articles, to determine if your document has any similarity to fake news
 
 The plan is:
 
